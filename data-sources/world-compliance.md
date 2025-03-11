@@ -20,8 +20,6 @@ For updated profiles, the delta file includes the parent record and all children
 
 Text delta files include a delete file that you use as a reference to delete the entity profiles that are no longer included in the World Compliance data. You delete the parent record that is included in your delta file. You should delete the entity profiles that are listed in the delete file and the child records that are related to the profile to help ensure that there is no orphaned data or broken links. If you miss a delta file, then you can use a full file to update the data. You can also use full files to periodically refresh your data.
 
-[^1]: [text-file-specification-data-plus-v1.1-2025-01-14](../assets/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 6-7
-
 ## Individual Files
 
 These sections will cover the individual files that are included in the full/delta files.
@@ -71,9 +69,85 @@ Lexis organizes the data like this:
 		- UAEMSB
 		- USMSB
 
+### Adverse Media
+
+The EntityAdverseMedia and EntityAdverseMediaSubCategory files contain information relating to adverse media. That being said, the information provided is minimal. The `EntityAdverseMedia.AdverseMediaDesc` provides a top level categorization that will always be "Incident". The `EntityAdverseMediaSubCategory.SubCategoryLabel` provides a label for what the incident actually was.
+
+It's important to note that there is no linking to why a label was given to the individual. For example, if someone has a sub-category label of "Terrorism", there isn't an article or anything that gives the reasoning for it.
+
+There's a total of 49 
+
+The list of sub-category labels are[^3]:
+
+- Aircraft Hijacking
+- Antitrust Violations
+- Arms Trafficking
+- Bank Fraud
+- Bribery
+- Burglary
+- Conspiracy
+- Corruption
+- Counterfeiting
+- Crime Agnst Humanity
+- Cybercrime
+- Drug Trafficking
+- Embezzlement
+- Environmental Crimes
+- Espionage
+- Explosives
+- Extort-Rack-Threats
+- Financial Crimes
+- Forgery
+- Fraud
+- Fugitive
+- Gambling Operations
+- Healthcare Fraud
+- Human Rights Abuse
+- Human Trafficking
+- Insider Trading
+- Insurance Fraud
+- ISIS Foreign Support
+- Kidnapping
+- Labor Violations
+- Money Laundering
+- Mortgage Fraud
+- Murder
+- Organized Crime
+- Peonage
+- Pharma Trafficking
+- Piracy
+- Pollution
+- Pornography
+- Price Manipulation
+- RICO
+- Securities Fraud
+- Smuggling
+- Stolen Property
+- Tax Evasion
+- Terrorism
+- War Crimes
+- Wire Fraud
+- WMD
+
+### Enforcement
+
+The list of sub-category labels include all of the labels in [Adverse media](#adverse-media) as well as[^4]:
+
+- Administrative
+- Asset Freeze
+- Debarred
+- Disciplined
+- Disqualified
+- End Use Control
+- Excluded Party
+- Interstate Commerce
+- Most Wanted
+- N/A - This means the enforcement couldn't be categorized
+- Unauthorized
+
 ### Consolidated Sanctions
 
-Each sanctioned entity has a consolidated profile associated with it.[^6]
+Each sanctioned entity has a consolidated profile associated with it.
 
 There's two types of sanction lists in World Compliance. A "single source sanction" and a "consolidated sanction profile". Each single source sanction will map to a single entity entry. This means we can only have a single sanction associated with an entity. This doesn't make sense because an entity can have multiple sanctions associated with it. This is where the consolidated sanction profile comes into effect. Lexis takes all of the sanctions related to an entity and connects them through the ConsolidatedSanctionGUID.
 
@@ -94,3 +168,108 @@ Let's look at an example. Notice how all of the EntityGUIDs are unique. Yet, the
 | 6E972D24-DF3E-4233-9D60-8682B4E26B54 | 0000D6D0-35B1-444F-B581-5CA3D301C2B8 | US-U.S. Office of Foreign Asset Control (OFAC) - SDN List           | United States          | F59AC67D-8A1B-4836-B95C-0F2027B71B75 |
 | E1426118-8A15-4D1A-953D-B183B7F4D59A | 0000D6D0-35B1-444F-B581-5CA3D301C2B8 | MC-Service d'Information et de Contrôle sur les Circuits Financiers | Monaco                 | F67209D1-D148-412D-8E56-9377519117A6 |
 | 966A22F2-88EA-4749-9DD0-8252F2D49BB8 | 0000D6D0-35B1-444F-B581-5CA3D301C2B8 | Consolidated Sanctions List                                         | International          | FDC322CC-C7D0-427D-95EC-6764232C4833 |
+
+### PEP
+
+The EntityPEP and EntityPEPSubCategory contain all the information relating to PEPs.
+
+The `EntityPEPSubCategory.SubCategoryLabel` will be text saying "Primary PEP" or "Secondary PEP". The `EntityPEPSubCategory.SubCategoryDesc` adds an additional categorization.
+
+A primary PEP can be categorized as one of the following[^2]:
+
+- Chief of State
+- Diplomat
+- Govt Branch Member (Government Branch Member)
+- Intelligence
+- Intl Org Leadership (International Organization Leadership)
+- Judiciary
+- Law Enforce Auth (Law Enforcement Authority)
+- Legislature
+- Military
+- NGO Leadership (Non-Governmental Organization Leadership)
+- Senior Party Member
+- Traditional Leadership
+- Union Leadership
+
+A seconndary PEP can be categorized as one of the following[^2]:
+
+- Associate
+- Attorney
+- Family Member
+- MSOE (Member of a State Owned Enterprise)
+- MSWF (Member of a Sovereign Wealth Fund)
+- PEP Controlled Bus (PEP Controlled Business)
+
+## Hit rankings
+
+| Hit                                       | Ranking    | Adverse Media | Enforcement |
+| ----------------------------------------- | ---------- | ------------- | ----------- |
+| Administrative                            | 1 - Low    | ✕             | ✓           |
+| Aircraft Hijacking                        | 4 - Severe | ✓             | ✓           |
+| Antitrust Violations                      | 2 - Medium | ✓             | ✓           |
+| Arms Trafficking                          | 3 - High   | ✓             | ✓           |
+| Asset Freeze                              | 2 - Medium | ✕             | ✓           |
+| Bank Fraud                                | 2 - Medium | ✓             | ✓           |
+| Bribery                                   | 2 - Medium | ✓             | ✓           |
+| Burglary                                  | 1 - Low    | ✓             | ✓           |
+| Conspiracy                                | 1 - Low    | ✓             | ✓           |
+| Corruption                                | 3 - High   | ✓             | ✓           |
+| Counterfeiting                            | 3 - High   | ✓             | ✓           |
+| Crime Agnst Humanity                      | 4 - Severe | ✓             | ✓           |
+| Cybercrime                                | 2 - Medium | ✓             | ✓           |
+| Debarred                                  | 2 - Medium | ✕             | ✓           |
+| Disciplined                               | 1 - Low    | ✕             | ✓           |
+| Disqualified                              | 2 - Medium | ✕             | ✓           |
+| Drug Trafficking                          | 3 - High   | ✓             | ✓           |
+| Embezzlement                              | 2 - Medium | ✓             | ✓           |
+| End Use Control                           | 2 - Medium | ✕             | ✓           |
+| Environmental Crimes                      | 1 - Low    | ✓             | ✓           |
+| Espionage                                 | 4 - Severe | ✓             | ✓           |
+| Excluded Party                            | 3 - High   | ✕             | ✓           |
+| Explosives                                | 1 - Low    | ✓             | ✓           |
+| Extort-Rack-Threats                       | 3 - High   | ✓             | ✓           |
+| Financial Crimes                          | 3 - High   | ✓             | ✓           |
+| Forgery                                   | 2 - Medium | ✓             | ✓           |
+| Fraud                                     | 2 - Medium | ✓             | ✓           |
+| Fugitive                                  | 1 - Low    | ✓             | ✓           |
+| Gambling Operations                       | 1 - Low    | ✓             | ✓           |
+| Healthcare Fraud                          | 2 - Medium | ✓             | ✓           |
+| Human Rights Abuse                        | 3 - High   | ✓             | ✓           |
+| Human Trafficking                         | 4 - Severe | ✓             | ✓           |
+| Insider Trading                           | 2 - Medium | ✓             | ✓           |
+| Insurance Fraud                           | 2 - Medium | ✓             | ✓           |
+| Interstate Commerce                       | 2 - Medium | ✕             | ✓           |
+| ISIS Foreign Support                      | 3 - High   | ✓             | ✓           |
+| Kidnapping                                | 4 - Severe | ✓             | ✓           |
+| Labor Violations                          | 1 - Low    | ✓             | ✓           |
+| Money Laundering                          | 3 - High   | ✓             | ✓           |
+| Mortgage Fraud                            | 2 - Medium | ✓             | ✓           |
+| Most Wanted                               | 4 - Severe | ✕             | ✓           |
+| Murder                                    | 4 - Severe | ✓             | ✓           |
+| N/A (Enforcement couldn't be categorized) | 0 - None   | ✕             | ✓           |
+| Organized Crime                           | 3 - High   | ✓             | ✓           |
+| Peonage                                   | 2 - Medium | ✓             | ✓           |
+| Pharma Trafficking                        | 2 - Medium | ✓             | ✓           |
+| Piracy                                    | 2 - Medium | ✓             | ✓           |
+| Pollution                                 | 1 - Low    | ✓             | ✓           |
+| Pornography                               | 1 - Low    | ✓             | ✓           |
+| Price Manipulation                        | 1 - Low    | ✓             | ✓           |
+| RICO                                      | 3 - High   | ✓             | ✓           |
+| Securities Fraud                          | 3 - High   | ✓             | ✓           |
+| Smuggling                                 | 3 - High   | ✓             | ✓           |
+| Stolen Property                           | 2 - Medium | ✓             | ✓           |
+| Tax Evasion                               | 2 - Medium | ✓             | ✓           |
+| Terrorism                                 | 4 - Severe | ✓             | ✓           |
+| Unauthorized                              | 2 - Medium | ✕             | ✓           |
+| War Crimes                                | 4 - Severe | ✓             | ✓           |
+| Wire Fraud                                | 2 - Medium | ✓             | ✓           |
+| WMD (Weapons of Mass Destruction)         | 4 - Severe | ✓             | ✓           |
+
+
+[^1]: [text-file-specification-data-plus-v1.1-2025-01-14](../assets/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 6-7  
+[^2]: [data-segments-data-plus-service-2021-04-20](../assets/data-segments-data-plus-service-2021-04-20.pdf) pages 53-57  
+[^3]: [data-segments-data-plus-service-2021-04-20](../assets/data-segments-data-plus-service-2021-04-20.pdf) pages 26-
+
+---
+
+https://en.wikipedia.org/wiki/Predicate_crime
