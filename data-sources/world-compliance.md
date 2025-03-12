@@ -129,6 +129,8 @@ The list of sub-category labels are[^3]:
 - Wire Fraud
 - WMD
 
+[View the rankings](#hit-rankings)
+
 ### Enforcement
 
 The list of sub-category labels include all of the labels in [Adverse media](#adverse-media) as well as[^4]:
@@ -144,6 +146,8 @@ The list of sub-category labels include all of the labels in [Adverse media](#ad
 - Most Wanted
 - N/A - This means the enforcement couldn't be categorized
 - Unauthorized
+
+[View the rankings](#hit-rankings)
 
 ### Consolidated Sanctions
 
