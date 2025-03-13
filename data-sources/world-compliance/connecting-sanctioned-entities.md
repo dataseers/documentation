@@ -55,7 +55,7 @@ Searching for their ID in the `EntitySanction` file returns the following:
 
 We can use the `ConsolidatedSanctionGUID` to get all of the individual sanction sources for them. There will always be a single entry with a source name of `Consolidated Sanctions List`. This is an entity that represents the Consolidated entity. It shouldn't be included in any lists showing sanctions, but the rest of the data connected to it can be used: 
 
-```js
+```json
 [
     {
         "EntityGUID": "966A22F2-88EA-4749-9DD0-8252F2D49BB8",
