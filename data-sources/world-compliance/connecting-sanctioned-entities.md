@@ -15,26 +15,26 @@ If we find an entity that we want to get more information on, then we'd use thei
 For example, the EntityGUID `E3CB620A-5C82-4315-8E66-DE77615AE039` gives us this entity:
 
 ```json
-	{
-		"EntityGUID" : "E3CB620A-5C82-4315-8E66-DE77615AE039",
-		"EntityTypeDesc" : "Organization",
-		"Gender" : "Not Applicable",
-		"Name" : "Htoo Group of Companies",
-		"FirstName" : "",
-		"MiddleName" : "",
-		"LastName" : "Htoo Group of Companies",
-		"Prefix" : "",
-		"Suffix" : "",
-		"Title" : "",
-		"IsDeceased" : "0",
-		"DeceasedYear" : "",
-		"DeceasedMonth" : "",
-		"DeceasedDay" : "",
-		"IsRelatedEntity" : "0",
-		"EntityID" : "11751032",
-		"LookupID" : "449DA326-0398-4CAA-A672-E65D46C31A4D",
-		"LastUpdated" : "2024-02-29 16:55:08.483"
-	}
+{
+	"EntityGUID" : "E3CB620A-5C82-4315-8E66-DE77615AE039",
+	"EntityTypeDesc" : "Organization",
+	"Gender" : "Not Applicable",
+	"Name" : "Htoo Group of Companies",
+	"FirstName" : "",
+	"MiddleName" : "",
+	"LastName" : "Htoo Group of Companies",
+	"Prefix" : "",
+	"Suffix" : "",
+	"Title" : "",
+	"IsDeceased" : "0",
+	"DeceasedYear" : "",
+	"DeceasedMonth" : "",
+	"DeceasedDay" : "",
+	"IsRelatedEntity" : "0",
+	"EntityID" : "11751032",
+	"LookupID" : "449DA326-0398-4CAA-A672-E65D46C31A4D",
+	"LastUpdated" : "2024-02-29 16:55:08.483"
+}
 ```
 
 Searching for their ID in the `EntitySanction` file returns the following:
