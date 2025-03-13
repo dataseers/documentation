@@ -207,6 +207,9 @@ We run into an issue where these individual entities are actually representing o
 
 You can learn how the tables are connected here: [connecting sanction entities](connecting-sanctioned-entities.md).
 
+Single sanction sources
+
+
 ## Hit rankings
 
 | Hit                                       | Ranking    | Adverse Media | Enforcement |
