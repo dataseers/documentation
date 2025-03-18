@@ -168,6 +168,8 @@ The list of sub-category labels include all of the labels in [Adverse media](#ad
 
 ### PEP
 
+The PEP category consists of the "EntityPEP" and "EntityPEPSubCategory" files.
+
 #### EntityPEP
 
 The EntityPEP file contains the following fields:[^6]
