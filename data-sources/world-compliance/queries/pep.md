@@ -30,8 +30,22 @@ The EntityPEP file contains the following fields:[^1]
 - ExpirationDateTypeDesc
 - LastUpdated
 
+### Fields
+
+An adminsitrative unit may also be refferred to as an "administrative division". Adminsitrative levels are a standard method of how countries and territories organize themselves politically across the globe.
+
+The `PEPAdminLevelDesc` contains a value which represents what level a PEP is at within their respective country:[^4]
+
+- International
+- National
+- Subnational
+- Civic
+- Metro
+
+### Data analysis
+
 >[!important]
-> The upcoming information was gained by doing my own data analysis on the full file. This will not be shown in any Lexis Nexis documentation.
+> The information was gained by doing my own data analysis on the full file. This will not be shown in any Lexis Nexis documentation.
 
 Each entry in this file is guaranteed to have these fields:
 
@@ -86,6 +100,8 @@ Primary PEP entries have a higher rate of returning data for every entry compare
 | ExpirationDateTypeDesc      | 83.6%       | 25.7%         |
 | LastUpdated                 | 100%        | 100%          |
 
+If an entity is a secondary PEP, then we should be able to see who they are connected to through the EntityRelationship file.
+
 
 ## EntityPEPSubCategory
 
@@ -97,7 +113,38 @@ The EntityPEPSubCategory contains the following fields:[^2]
 - SubCategoryDesc
 - LastUpdated
 
+### Fields
+
+The `SubCategoryLabel` is a text representation of the `EntityPEP.IsPrimaryPEP` field.
+
+The `SubCategoryDesc` varys on if the individual is a primary or secondary PEP[^3]. Primary PEPs can have these values:
+
+- Chief of State
+- Diplomat
+- Govt Branch Member (Government Branch Member)
+- Intelligence
+- Intl Org Leadership (International Organization Leadership)
+- Judiciary
+- Law Enforce Auth (Law Enforcement Authority)
+- Legislature
+- Military
+- NGO Leadership (Non-Governmental Organization Leadership)
+- Senior Party Member
+- Traditional Leadership
+- Union Leadership
+
+while secondary PEPs can have these values:
+
+- Associate
+- Attorney
+- Family Member
+- MSOE (Member of a State Owned Enterprise)
+- MSWF (Member of a Sovereign Wealth Fund)
+- PEP Controlled Bus (PEP Controlled Business)
+
 ---
 
 [^1]: [Text file specification](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 21-22  
-[^2]: [Text file specification](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 23
+[^2]: [Text file specification](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 23  
+[^3]: [Data segments](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 53-58  
+[^4]: [Data segments](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 51-52  
