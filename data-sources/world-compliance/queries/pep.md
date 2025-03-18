@@ -143,8 +143,7 @@ while secondary PEPs can have these values:
 - PEP Controlled Bus (PEP Controlled Business)
 
 ---
-
-[^1]: [Text file specification](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 21-22  
-[^2]: [Text file specification](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 23  
-[^3]: [Data segments](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 53-58  
-[^4]: [Data segments](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 51-52  
+[^1]: [Text file specification](../../../assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 21-22  
+[^2]: [Text file specification](../../../assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) page 23  
+[^3]: [Data segments](../../../assets/world-compliance/data-sources-2025-01-13.pdf) page 53-58  
+[^4]: [Data segments](../../../assets/world-compliance/data-sources-2025-01-13.pdf) page 51-52  
