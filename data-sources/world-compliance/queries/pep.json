@@ -1,0 +1,1242 @@
+[
+    {
+        "ISOAdministrativeUnitLevel0": "UMI",
+        "Count": 3,
+        "Percentage": 0.00006479839922034566
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ATF",
+        "Count": 5,
+        "Percentage": 0.00010799733203390944
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SGS",
+        "Count": 33,
+        "Percentage": 0.0007127823914238022
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IOT",
+        "Count": 53,
+        "Percentage": 0.00114477171955944
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SJM",
+        "Count": 53,
+        "Percentage": 0.00114477171955944
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BLM",
+        "Count": 56,
+        "Percentage": 0.0012095701187797856
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CCK",
+        "Count": 62,
+        "Percentage": 0.001339166917220477
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CXR",
+        "Count": 62,
+        "Percentage": 0.001339166917220477
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PCN",
+        "Count": 73,
+        "Percentage": 0.0015767610476950776
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FLK",
+        "Count": 99,
+        "Percentage": 0.002138347174271407
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SPM",
+        "Count": 107,
+        "Percentage": 0.002311142905525662
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "WLF",
+        "Count": 110,
+        "Percentage": 0.002375941304746008
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MAF",
+        "Count": 142,
+        "Percentage": 0.003067124229763028
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MSR",
+        "Count": 169,
+        "Percentage": 0.0036503098227461386
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MYT",
+        "Count": 173,
+        "Percentage": 0.0037367076883732665
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TKL",
+        "Count": 179,
+        "Percentage": 0.0038663044868139577
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BES",
+        "Count": 182,
+        "Percentage": 0.003931102886034304
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NFK",
+        "Count": 183,
+        "Percentage": 0.003952702352441085
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SHN",
+        "Count": 236,
+        "Percentage": 0.005097474072000526
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SXM",
+        "Count": 256,
+        "Percentage": 0.005529463400136163
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NIU",
+        "Count": 269,
+        "Percentage": 0.005810256463424328
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ABW",
+        "Count": 277,
+        "Percentage": 0.005983052194678583
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GIB",
+        "Count": 292,
+        "Percentage": 0.00630704419078031
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TUV",
+        "Count": 292,
+        "Percentage": 0.00630704419078031
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ERI",
+        "Count": 294,
+        "Percentage": 0.006350243123593875
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GUF",
+        "Count": 327,
+        "Percentage": 0.007063025515017677
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MTQ",
+        "Count": 364,
+        "Percentage": 0.007862205772068608
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ESH",
+        "Count": 370,
+        "Percentage": 0.007991802570509297
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ASM",
+        "Count": 382,
+        "Percentage": 0.008250996167390681
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GLP",
+        "Count": 385,
+        "Percentage": 0.008315794566611027
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MNP",
+        "Count": 402,
+        "Percentage": 0.008682985495526319
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ALA",
+        "Count": 411,
+        "Percentage": 0.008877380693187355
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VCT",
+        "Count": 418,
+        "Percentage": 0.009028576958034829
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MHL",
+        "Count": 421,
+        "Percentage": 0.009093375357255174
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FSM",
+        "Count": 436,
+        "Percentage": 0.009417367353356902
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VIR",
+        "Count": 440,
+        "Percentage": 0.009503765218984031
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KIR",
+        "Count": 460,
+        "Percentage": 0.009935754547119669
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CUW",
+        "Count": 466,
+        "Percentage": 0.01006535134556036
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "REU",
+        "Count": 534,
+        "Percentage": 0.011534115061221527
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AIA",
+        "Count": 561,
+        "Percentage": 0.01211730065420464
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FRO",
+        "Count": 562,
+        "Percentage": 0.01213890012061142
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VGB",
+        "Count": 584,
+        "Percentage": 0.01261408838156062
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GGY",
+        "Count": 585,
+        "Percentage": 0.012635687847967404
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NRU",
+        "Count": 607,
+        "Percentage": 0.013110876108916605
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NCL",
+        "Count": 618,
+        "Percentage": 0.013348470239391206
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ATG",
+        "Count": 656,
+        "Percentage": 0.014169249962848917
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "COK",
+        "Count": 668,
+        "Percentage": 0.0144284435597303
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DMA",
+        "Count": 673,
+        "Percentage": 0.01453644089176421
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "JEY",
+        "Count": 685,
+        "Percentage": 0.014795634488645593
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "STP",
+        "Count": 738,
+        "Percentage": 0.015940406208205034
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "WSM",
+        "Count": 771,
+        "Percentage": 0.016653188599628832
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PYF",
+        "Count": 801,
+        "Percentage": 0.01730117259183229
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TCA",
+        "Count": 806,
+        "Percentage": 0.0174091699238662
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PRI",
+        "Count": 835,
+        "Percentage": 0.018035554449662875
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BLZ",
+        "Count": 875,
+        "Percentage": 0.018899533105934153
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PLW",
+        "Count": 880,
+        "Percentage": 0.019007530437968063
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TON",
+        "Count": 951,
+        "Percentage": 0.020541092552849576
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MCO",
+        "Count": 971,
+        "Percentage": 0.020973081880985213
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IMN",
+        "Count": 1000,
+        "Percentage": 0.021599466406781887
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KNA",
+        "Count": 1006,
+        "Percentage": 0.02172906320522258
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MAC",
+        "Count": 1026,
+        "Percentage": 0.022161052533358216
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TLS",
+        "Count": 1030,
+        "Percentage": 0.022247450398985343
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SWZ",
+        "Count": 1040,
+        "Percentage": 0.022463445063053162
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SUR",
+        "Count": 1065,
+        "Percentage": 0.02300343172322271
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "COM",
+        "Count": 1088,
+        "Percentage": 0.023500219450578695
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GUM",
+        "Count": 1102,
+        "Percentage": 0.02380261198027364
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GRL",
+        "Count": 1112,
+        "Percentage": 0.024018606644341457
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GRD",
+        "Count": 1169,
+        "Percentage": 0.025249776229528023
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LIE",
+        "Count": 1211,
+        "Percentage": 0.026156953818612865
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SMR",
+        "Count": 1277,
+        "Percentage": 0.027582518601460472
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DJI",
+        "Count": 1323,
+        "Percentage": 0.028576094056172435
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AND",
+        "Count": 1325,
+        "Percentage": 0.028619292988986
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VUT",
+        "Count": 1325,
+        "Percentage": 0.028619292988986
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GMB",
+        "Count": 1367,
+        "Percentage": 0.02952647057807084
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GUY",
+        "Count": 1380,
+        "Percentage": 0.029807263641359005
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LCA",
+        "Count": 1388,
+        "Percentage": 0.029980059372613256
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BRN",
+        "Count": 1462,
+        "Percentage": 0.03157841988671512
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GNB",
+        "Count": 1474,
+        "Percentage": 0.031837613483596504
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LSO",
+        "Count": 1520,
+        "Percentage": 0.03283118893830847
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TGO",
+        "Count": 1540,
+        "Percentage": 0.03326317826644411
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BRB",
+        "Count": 1567,
+        "Percentage": 0.03384636385942722
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PSE",
+        "Count": 1567,
+        "Percentage": 0.03384636385942722
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BTN",
+        "Count": 1634,
+        "Percentage": 0.0352935281086816
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BMU",
+        "Count": 1655,
+        "Percentage": 0.035747116903224026
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SYC",
+        "Count": 1692,
+        "Percentage": 0.03654629716027495
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CAF",
+        "Count": 1766,
+        "Percentage": 0.03814465767437681
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TKM",
+        "Count": 1798,
+        "Percentage": 0.03883584059939384
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "HTI",
+        "Count": 1880,
+        "Percentage": 0.04060699684474995
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "COG",
+        "Count": 2096,
+        "Percentage": 0.045272481588614834
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LBN",
+        "Count": 2117,
+        "Percentage": 0.04572607038315725
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GIN",
+        "Count": 2214,
+        "Percentage": 0.0478212186246151
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BDI",
+        "Count": 2240,
+        "Percentage": 0.04838280475119143
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MWI",
+        "Count": 2244,
+        "Percentage": 0.04846920261681856
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LBR",
+        "Count": 2253,
+        "Percentage": 0.04866359781447959
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VAT",
+        "Count": 2387,
+        "Percentage": 0.05155792631298836
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LAO",
+        "Count": 2404,
+        "Percentage": 0.05192511724190366
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NAM",
+        "Count": 2434,
+        "Percentage": 0.052573101234107106
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SOM",
+        "Count": 2434,
+        "Percentage": 0.052573101234107106
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SSD",
+        "Count": 2482,
+        "Percentage": 0.05360987562163265
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SLE",
+        "Count": 2541,
+        "Percentage": 0.05488424413963277
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MRT",
+        "Count": 2626,
+        "Percentage": 0.05672019878420923
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "RWA",
+        "Count": 2639,
+        "Percentage": 0.057000991847497406
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BEN",
+        "Count": 2681,
+        "Percentage": 0.05790816943658224
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MLT",
+        "Count": 2707,
+        "Percentage": 0.05846975556315857
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CYM",
+        "Count": 2742,
+        "Percentage": 0.059225736887395936
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TJK",
+        "Count": 2791,
+        "Percentage": 0.06028411074132825
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FJI",
+        "Count": 2801,
+        "Percentage": 0.06050010540539606
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GNQ",
+        "Count": 2864,
+        "Percentage": 0.061860871789023324
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BHR",
+        "Count": 2937,
+        "Percentage": 0.0634376328367184
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SLB",
+        "Count": 2998,
+        "Percentage": 0.0647552002875321
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NER",
+        "Count": 3015,
+        "Percentage": 0.06512239121644739
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ZMB",
+        "Count": 3062,
+        "Percentage": 0.06613756613756613
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "HND",
+        "Count": 3079,
+        "Percentage": 0.06650475706648143
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "YEM",
+        "Count": 3260,
+        "Percentage": 0.07041426048610895
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PNG",
+        "Count": 3278,
+        "Percentage": 0.07080305088143102
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MLI",
+        "Count": 3303,
+        "Percentage": 0.07134303754160057
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BHS",
+        "Count": 3339,
+        "Percentage": 0.07212061833224473
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "QAT",
+        "Count": 3427,
+        "Percentage": 0.07402137137604152
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MDG",
+        "Count": 3435,
+        "Percentage": 0.07419416710729577
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NIC",
+        "Count": 3455,
+        "Percentage": 0.07462615643543141
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CPV",
+        "Count": 3720,
+        "Percentage": 0.08035001503322863
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ETH",
+        "Count": 3777,
+        "Percentage": 0.08158118461841518
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LBY",
+        "Count": 3834,
+        "Percentage": 0.08281235420360175
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KWT",
+        "Count": 3904,
+        "Percentage": 0.08432431685207649
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BWA",
+        "Count": 4052,
+        "Percentage": 0.0875210378802802
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SLV",
+        "Count": 4119,
+        "Percentage": 0.0889682021295346
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MNG",
+        "Count": 4178,
+        "Percentage": 0.09024257064753471
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ISL",
+        "Count": 4214,
+        "Percentage": 0.09102015143817888
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CMR",
+        "Count": 4216,
+        "Percentage": 0.09106335037099243
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CYP",
+        "Count": 4242,
+        "Percentage": 0.09162493649756877
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BOL",
+        "Count": 4301,
+        "Percentage": 0.0928993050155689
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IRQ",
+        "Count": 4307,
+        "Percentage": 0.09302890181400958
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SEN",
+        "Count": 4384,
+        "Percentage": 0.0946920607273318
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LUX",
+        "Count": 4413,
+        "Percentage": 0.09531844525312846
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TCD",
+        "Count": 4413,
+        "Percentage": 0.09531844525312846
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "UZB",
+        "Count": 4450,
+        "Percentage": 0.0961176255101794
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "OMN",
+        "Count": 4482,
+        "Percentage": 0.09680880843519642
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "XKV",
+        "Count": 4502,
+        "Percentage": 0.09724079776333205
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MDV",
+        "Count": 4580,
+        "Percentage": 0.09892555614306105
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SYR",
+        "Count": 4776,
+        "Percentage": 0.1031590515587903
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ZWE",
+        "Count": 4803,
+        "Percentage": 0.1037422371517734
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PRY",
+        "Count": 4850,
+        "Percentage": 0.10475741207289216
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "UGA",
+        "Count": 4899,
+        "Percentage": 0.10581578592682446
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SDN",
+        "Count": 4979,
+        "Percentage": 0.10754374323936702
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AFG",
+        "Count": 5120,
+        "Percentage": 0.11058926800272327
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MOZ",
+        "Count": 5141,
+        "Percentage": 0.1110428567972657
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AZE",
+        "Count": 5147,
+        "Percentage": 0.11117245359570638
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TUN",
+        "Count": 5170,
+        "Percentage": 0.11166924132306236
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TZA",
+        "Count": 5184,
+        "Percentage": 0.1119716338527573
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GTM",
+        "Count": 5201,
+        "Percentage": 0.1123388247816726
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BFA",
+        "Count": 5286,
+        "Percentage": 0.11417477942624904
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GHA",
+        "Count": 5441,
+        "Percentage": 0.11752269671930024
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MUS",
+        "Count": 5472,
+        "Percentage": 0.11819228017791049
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CRI",
+        "Count": 5559,
+        "Percentage": 0.12007143375530052
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PRK",
+        "Count": 5583,
+        "Percentage": 0.12058982094906327
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ALB",
+        "Count": 5630,
+        "Percentage": 0.12160499587018203
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DZA",
+        "Count": 5703,
+        "Percentage": 0.1231817569178771
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "COD",
+        "Count": 5754,
+        "Percentage": 0.12428332970462297
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "EST",
+        "Count": 5781,
+        "Percentage": 0.12486651529760608
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CIV",
+        "Count": 6039,
+        "Percentage": 0.1304391776305558
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SAU",
+        "Count": 6169,
+        "Percentage": 0.13324710826343747
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AGO",
+        "Count": 6226,
+        "Percentage": 0.134478277848624
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GAB",
+        "Count": 6445,
+        "Percentage": 0.13920856099170928
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VEN",
+        "Count": 6576,
+        "Percentage": 0.1420380910909977
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IRN",
+        "Count": 6964,
+        "Percentage": 0.15041868405682907
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MAR",
+        "Count": 6998,
+        "Percentage": 0.15115306591465966
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "JOR",
+        "Count": 7017,
+        "Percentage": 0.1515634557763885
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MNE",
+        "Count": 7129,
+        "Percentage": 0.1539825960139481
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ARM",
+        "Count": 7552,
+        "Percentage": 0.16311917030401682
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "HKG",
+        "Count": 7561,
+        "Percentage": 0.16331356550167783
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ARE",
+        "Count": 7653,
+        "Percentage": 0.16530071641110178
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MMR",
+        "Count": 7669,
+        "Percentage": 0.1656463078736103
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MDA",
+        "Count": 7697,
+        "Percentage": 0.1662510929330002
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TTO",
+        "Count": 7754,
+        "Percentage": 0.16748226251818676
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BLR",
+        "Count": 7964,
+        "Percentage": 0.17201815046361094
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KGZ",
+        "Count": 8082,
+        "Percentage": 0.17456688749961122
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "JAM",
+        "Count": 8185,
+        "Percentage": 0.17679163253950975
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LTU",
+        "Count": 8360,
+        "Percentage": 0.18057153916069657
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BIH",
+        "Count": 8471,
+        "Percentage": 0.18296907993184938
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NZL",
+        "Count": 8875,
+        "Percentage": 0.19169526436018924
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SRB",
+        "Count": 9270,
+        "Percentage": 0.20022705359086806
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "URY",
+        "Count": 9547,
+        "Percentage": 0.20621010578554666
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GEO",
+        "Count": 9653,
+        "Percentage": 0.20849964922466557
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CUB",
+        "Count": 9721,
+        "Percentage": 0.20996841294032673
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DNK",
+        "Count": 9801,
+        "Percentage": 0.21169637025286928
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MKD",
+        "Count": 10068,
+        "Percentage": 0.21746342778348002
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ISR",
+        "Count": 10089,
+        "Percentage": 0.21791701657802245
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CHL",
+        "Count": 10099,
+        "Percentage": 0.21813301124209028
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GRC",
+        "Count": 10309,
+        "Percentage": 0.22266889918751445
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PAN",
+        "Count": 10460,
+        "Percentage": 0.22593041861493857
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "HUN",
+        "Count": 11637,
+        "Percentage": 0.2513529905757208
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LVA",
+        "Count": 11801,
+        "Percentage": 0.25489530306643304
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KAZ",
+        "Count": 12298,
+        "Percentage": 0.26563023787060364
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NPL",
+        "Count": 12700,
+        "Percentage": 0.27431322336612995
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SVN",
+        "Count": 13420,
+        "Percentage": 0.2898648391790129
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PRT",
+        "Count": 13595,
+        "Percentage": 0.2936447458001997
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "HRV",
+        "Count": 13983,
+        "Percentage": 0.3020253387660311
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NLD",
+        "Count": 14171,
+        "Percentage": 0.30608603845050614
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IRL",
+        "Count": 14810,
+        "Percentage": 0.31988809748443975
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PHL",
+        "Count": 14840,
+        "Percentage": 0.3205360814766432
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KEN",
+        "Count": 15278,
+        "Percentage": 0.3299966477628137
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SVK",
+        "Count": 15900,
+        "Percentage": 0.343431515867832
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SGP",
+        "Count": 16539,
+        "Percentage": 0.35723357490176566
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MYS",
+        "Count": 16925,
+        "Percentage": 0.36557096893478347
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DOM",
+        "Count": 16927,
+        "Percentage": 0.365614167867597
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "SWE",
+        "Count": 16972,
+        "Percentage": 0.36658614385590216
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FIN",
+        "Count": 17151,
+        "Percentage": 0.3704524483427161
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AUT",
+        "Count": 17431,
+        "Percentage": 0.3765002989366151
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TUR",
+        "Count": 18193,
+        "Percentage": 0.3929590923385829
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KHM",
+        "Count": 18632,
+        "Percentage": 0.40244125809116016
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BEL",
+        "Count": 18746,
+        "Percentage": 0.40490359726153324
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "TWN",
+        "Count": 18920,
+        "Percentage": 0.4086619044163133
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BGR",
+        "Count": 20784,
+        "Percentage": 0.4489233097985547
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ECU",
+        "Count": 21065,
+        "Percentage": 0.45499275985886045
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ROU",
+        "Count": 21658,
+        "Percentage": 0.4678012434380821
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NGA",
+        "Count": 22971,
+        "Percentage": 0.4961613428301867
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CZE",
+        "Count": 24757,
+        "Percentage": 0.5347379898326992
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ZAF",
+        "Count": 27309,
+        "Percentage": 0.5898598281028065
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BGD",
+        "Count": 28281,
+        "Percentage": 0.6108545094501985
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "EGY",
+        "Count": 28684,
+        "Percentage": 0.6195590944121316
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CHE",
+        "Count": 28911,
+        "Percentage": 0.6244621732864711
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IDN",
+        "Count": 29343,
+        "Percentage": 0.633793142774201
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PAK",
+        "Count": 30153,
+        "Percentage": 0.6512887105636942
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "LKA",
+        "Count": 30928,
+        "Percentage": 0.6680282970289502
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "UKR",
+        "Count": 31986,
+        "Percentage": 0.6908805324873255
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "AUS",
+        "Count": 32150,
+        "Percentage": 0.6944228449780376
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "DEU",
+        "Count": 40281,
+        "Percentage": 0.8700481063315813
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "POL",
+        "Count": 43408,
+        "Percentage": 0.9375896377855882
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "THA",
+        "Count": 43495,
+        "Percentage": 0.9394687913629782
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ESP",
+        "Count": 47148,
+        "Percentage": 1.0183716421469524
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ARG",
+        "Count": 47863,
+        "Percentage": 1.0338152606278013
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "ITA",
+        "Count": 47925,
+        "Percentage": 1.035154427545022
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "COL",
+        "Count": 48636,
+        "Percentage": 1.050511648160244
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "NOR",
+        "Count": 50465,
+        "Percentage": 1.0900170722182478
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "PER",
+        "Count": 51563,
+        "Percentage": 1.1137332863328944
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "VNM",
+        "Count": 56903,
+        "Percentage": 1.2290744369451096
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "FRA",
+        "Count": 62470,
+        "Percentage": 1.3493186664316643
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CAN",
+        "Count": 62541,
+        "Percentage": 1.350852228546546
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "KOR",
+        "Count": 74841,
+        "Percentage": 1.6165256653499633
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "GBR",
+        "Count": 75636,
+        "Percentage": 1.6336972411433548
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "USA",
+        "Count": 97716,
+        "Percentage": 2.1106134594050987
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "IND",
+        "Count": 108279,
+        "Percentage": 2.338768623059936
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "RUS",
+        "Count": 118428,
+        "Percentage": 2.5579816076223656
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "JPN",
+        "Count": 125469,
+        "Percentage": 2.7100634505925165
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "MEX",
+        "Count": 196697,
+        "Percentage": 4.248550243814777
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "BRA",
+        "Count": 223626,
+        "Percentage": 4.830202274683006
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "",
+        "Count": 836834,
+        "Percentage": 18.075167871052912
+    },
+    {
+        "ISOAdministrativeUnitLevel0": "CHN",
+        "Count": 857324,
+        "Percentage": 18.517740937727876
+    }
+]

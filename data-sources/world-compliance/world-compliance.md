@@ -276,11 +276,11 @@ Single sanction sources
 | WMD (Weapons of Mass Destruction)         | 4 - Severe | ✓             | ✓           |
 
 
-[^1]: [text-file-specification-data-plus-v1.1-2025-01-14](/assets/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 6-7  
-[^2]: [data-segments-data-plus-service-2021-04-20](/assets/data-segments-data-plus-service-2021-04-20.pdf) pages 53-57  
-[^3]: [data-segments-data-plus-service-2021-04-20](/assets/data-segments-data-plus-service-2021-04-20.pdf) pages 26-49  
-[^4]: [data-segments-data-plus-service-2021-04-20](/assets/data-segments-data-plus-service-2021-04-20.pdf) pages 5-25  
-[^5]: [data-segments-data-plus-service-2021-04-20](/assets/data-segments-data-plus-service-2021-04-20.pdf) page 57  
+[^1]: [text-file-specification-data-plus-v1.1-2025-01-14](/assets/world-compliance/text-file-specification-data-plus-v1.1-2025-01-14.pdf) pages 6-7  
+[^2]: [data-segments-data-plus-service-2021-04-20](/assets/world-compliance/data-segments-data-plus-service-2021-04-20.pdf) pages 53-57  
+[^3]: [data-segments-data-plus-service-2021-04-20](/assets/world-compliance/data-segments-data-plus-service-2021-04-20.pdf) pages 26-49  
+[^4]: [data-segments-data-plus-service-2021-04-20](/assets/world-compliance/data-segments-data-plus-service-2021-04-20.pdf) pages 5-25  
+[^5]: [data-segments-data-plus-service-2021-04-20](/assets/world-compliance/data-segments-data-plus-service-2021-04-20.pdf) page 57  
 
 ---
 
